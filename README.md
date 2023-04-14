@@ -1,27 +1,9 @@
-## Brief Description Of Project
+## Dashboard For Hotels Company In Hospitality Domain
 I'm excited to share my latest accomplishment - a Power BI Report project that I've just completed! This report is based on a hypothetical Hotels Company, AtliQ Hotels, to monitor various measures related to their business.
-I learned so much from this project, such as Basic DAX functions, and I'm excited to apply my new skills and insights to future projects.
-
-![Hotel Dashboard Snapshot](https://user-images.githubusercontent.com/94215301/231978650-16460a7c-a5aa-444b-8ea6-e21024f83cca.png)
-
-Thanks to @codebasicshub for this project and their beautiful tutorials on Power BI and Data Visualization.
-
-## ________________________________________________________
+I learned so much from this project, such as Basic DAX functions, and I'm excited to apply my new skills and insights to future projects. Thanks to @codebasicshub for this project.
 
 
-## Project Description
+Dashboard Snapshots, PDF version and PBIX file is available in this repository. Feel free to download it, and add your visualizations to it. Don't forget to share it with me. LinkedIn, Instagram links are available on my website. Website link at the end !
 
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
-
-Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
-
-Task:  
-
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
-
-1. Create the metrics according to the metric list.
-2. Create a dashboard according to the mock-up provided by stakeholders.
-3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
-
-Dowload Project Files From Here:
-https://codebasics.io/challenge/codebasics-resume-project-challenge
+- All Necessary Dataset files can be accessed from here : https://codebasics.io/challenge/codebasics-resume-project-challenge
+- Also, have a look at my Portfolio Website : https://devgupta1907.github.io/portfolio/
