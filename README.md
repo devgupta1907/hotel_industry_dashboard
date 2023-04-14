@@ -1,12 +1,13 @@
-# Hotel Industry Dashboard
-## I'm excited to share my latest accomplishment - a Power BI Report project that I've just completed!
-## This report is based on a hypothetical Hotels Company, AtliQ Hotels, to monitor various measures related to their business.
+## Brief Description Of Project
+I'm excited to share my latest accomplishment - a Power BI Report project that I've just completed! This report is based on a hypothetical Hotels Company, AtliQ Hotels, to monitor various measures related to their business.
+I learned so much from this project, such as Basic DAX functions, and I'm excited to apply my new skills and insights to future projects.
 
-## I learned so much from this project, such as DAX, and I'm excited to apply my new skills and insights to future projects.
+![Hotel Dashboard Snapshot](https://user-images.githubusercontent.com/94215301/231978650-16460a7c-a5aa-444b-8ea6-e21024f83cca.png)
 
-### Thanks to @codebasicshub for this project and their beautiful tutorials on Power BI and Data Visualization.
+Thanks to @codebasicshub for this project and their beautiful tutorials on Power BI and Data Visualization.
 
 ## ________________________________________________________
+
 
 ## Project Description
 
